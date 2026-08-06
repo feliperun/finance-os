@@ -1,8 +1,6 @@
 # AGENTS.md — phai
 
 > Quick links: [Architecture](docs/ARCHITECTURE.md) · [Abstractions](docs/ABSTRACTIONS.md) · [Vision](docs/VISION.md) · [Getting Started](docs/GETTING-STARTED.md) · [ADRs](docs/adr/README.md) · [Reporting UX rules](REPORTING_UX.md)
->
-> *Playbook structure inspired by [tolaria](https://github.com/refactoringhq/tolaria).*
 
 Critical guardrails for this repository — read before writing code, opening a PR, or producing user-facing finance output.
 

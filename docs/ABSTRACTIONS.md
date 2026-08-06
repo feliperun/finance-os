@@ -185,7 +185,7 @@ Enrichment proposes; the `rules` table persists. The pipeline does not write cat
 - HMAC client credentials, automatic token refresh.
 - Pagination is handled internally — callers see a single `Vec<Transaction>`.
 - Decimal amounts come in as JSON strings and stay strings until parsed into `Decimal`.
-- Pluggy installment metadata is preserved in `metadata` and surfaced via the description-enrichment step (see ADR-0006 in tolaria's pattern, and the recent `fix(installments)` commits in `git log`).
+- Pluggy installment metadata is preserved in `metadata` and surfaced via the description-enrichment step (see ADR-0006 and the recent `fix(installments)` commits in `git log`).
 
 ## Splits
 
