@@ -93,6 +93,3 @@ proposed → active → superseded
 | [0039](0039-native-desktop-shell.md) | Native macOS desktop shell (Pake/Tauri WKWebView) over the local serve app; COEP require-corp + self-hosted fonts | accepted |
 | [0040](0040-single-production-daemon-port-80.md) | Single production daemon on port 80 | active |
 
----
-
-*The structure of these docs — the AGENTS.md workflow, the `docs/` layout, and the ADR format — is inspired by [tolaria](https://github.com/refactoringhq/tolaria).*
